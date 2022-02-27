@@ -65,6 +65,7 @@ class DataFetchingActivity : AppCompatActivity() {
                     drugRecyclerView.adapter = mAdapter
 
 
+
                     mAdapter.setOnItemClickListener(object : DrugAdapter.onItemClickListener{
                         override fun onItemClick(position: Int) {
 
