@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "14688930362",
+    "firebase_url": "https://drugabuserehabapp-default-rtdb.firebaseio.com",
+    "project_id": "drugabuserehabapp",
+    "storage_bucket": "drugabuserehabapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14688930362:android:50be19b399a4ebadac0303",
+        "android_client_info": {
+          "package_name": "com.example.drugabuseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14688930362-keunr4f2uqv7qj0c4j11bj89atkd65aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzYKkEHBmZUOH7AL7FV5v9G93fHeCQnxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14688930362-keunr4f2uqv7qj0c4j11bj89atkd65aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14688930362:android:587e7eac4fcd621dac0303",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14688930362-keunr4f2uqv7qj0c4j11bj89atkd65aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzYKkEHBmZUOH7AL7FV5v9G93fHeCQnxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14688930362-keunr4f2uqv7qj0c4j11bj89atkd65aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
